@@ -1,0 +1,7 @@
+Output with OpenSSL 0.9.8y
+
+Server bound
+Server secured
+Client secured
+Client received: Hello!
+Server received: World!
